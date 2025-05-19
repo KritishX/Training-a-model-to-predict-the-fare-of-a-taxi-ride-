@@ -1,4 +1,4 @@
-axi Fare Prediction with Machine Learning
+Taxi Fare Prediction with Machine Learning
 This project trains a regression model to predict the fare of a New York City taxi ride based on pickup/dropoff coordinates, date & time, and passenger count. Built using Python, TensorFlow/Keras, and various data visualization tools.
 
 🔧 Tools & Libraries
